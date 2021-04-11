@@ -15,6 +15,6 @@ _You can find it in HW1 folder_
 1. Penultimate row for 3K+1 images
 1. Last row for 3K+2 images
 
-_You can find it in HW2 folder_
+_You can find it in HW1-optimal folder_
 
 <img src="https://user-images.githubusercontent.com/82313956/114319439-48564380-9b1a-11eb-8efb-69d317044049.jpg" width="350">
