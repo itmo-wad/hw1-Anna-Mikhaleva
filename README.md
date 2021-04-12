@@ -9,8 +9,6 @@ Homework №1.
 1. Gallery consists of 3 columns
 1. Columns should be aligned to center in container with 900px width
 
-_You can find it in HW1 folder_
-
 ## Optimal part:
 1. Penultimate row for 3K+1 images
 1. Last row for 3K+2 images
