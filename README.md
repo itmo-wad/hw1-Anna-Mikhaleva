@@ -15,4 +15,9 @@ Homework №1.
 
 _You can find it in HW1-optimal folder_
 
+## Challenging part:
+Visit https://anya768.github.io/
+
+_You can find code in HW1-challenge folder_
+
 <img src="https://user-images.githubusercontent.com/82313956/114319439-48564380-9b1a-11eb-8efb-69d317044049.jpg" width="350">
